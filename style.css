@@ -1,0 +1,28 @@
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#1f1f1f;
+  font-family: Arial, sans-serif;
+}
+
+.container{
+  width:400px;
+}
+
+.item{
+  text-align:center;
+  color:white;
+  letter-spacing:19px;
+  font-size:27px;
+  font-weight:700;
+  margin:8px 0;
+}
+
+.line{
+  height:20px;
+  background:#1abc9c;
+  margin:4px 0;
+}
